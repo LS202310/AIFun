@@ -1,0 +1,2 @@
+# AIFun
+Study and try
